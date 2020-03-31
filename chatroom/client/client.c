@@ -1,10 +1,9 @@
 /*************************************************************************
 	> File Name: client.c
-	> Author: yuzhendi
-	> Mail: 1316215578.com
-	> Created Time: 二  3/231 17:06:21 2020
+	> Author: yu zhen di
+	> Mail: 1316215578@qq.com
+	> Created Time: 2020年03月31日 星期二 17时15分11秒
  ************************************************************************/
-
 
 #include "../common/chatroom.h"
 #include "../common/tcp_client.h"
@@ -37,3 +36,4 @@ int main(int argc, char **argv) {
 
     return 0;
 } 
+
